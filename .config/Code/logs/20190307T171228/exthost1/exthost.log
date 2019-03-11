@@ -1,0 +1,163 @@
+[2019-03-07 17:12:41.367] [exthost] [info] extension host started
+[2019-03-07 17:12:41.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:41.424] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-07 17:12:41.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:41.497] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-03-07 17:12:41.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:41.544] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-03-07 17:12:41.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:41.856] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-07 17:12:42.151] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:42.152] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/eamodio.gitlens-9.5.1/dist/extension
+[2019-03-07 17:12:42.321] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:42.321] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
+[2019-03-07 17:12:44.150] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:44.150] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.1284/out/prod/extension-prod
+[2019-03-07 17:12:44.967] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:12:44.967] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/robertohuertasm.vscode-icons-8.2.0/out/src/
+[2019-03-07 17:12:46.597] [exthost] [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop {"startup":false,"activationEvent":"onLanguage:latex"}
+[2019-03-07 17:12:46.597] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/james-yu.latex-workshop-6.1.0/out/src/main.js
+[2019-03-07 17:13:02.048] [exthost] [info] extension host started
+[2019-03-07 17:13:02.117] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.117] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-07 17:13:02.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.119] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-03-07 17:13:02.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.123] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-03-07 17:13:02.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.159] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-07 17:13:02.162] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.162] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/eamodio.gitlens-9.5.1/dist/extension
+[2019-03-07 17:13:02.223] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.223] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
+[2019-03-07 17:13:02.302] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.303] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.1284/out/prod/extension-prod
+[2019-03-07 17:13:02.485] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-03-07 17:13:02.485] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/robertohuertasm.vscode-icons-8.2.0/out/src/
+[2019-03-07 17:13:02.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-03-07 17:13:02.523] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/python/out/pythonMain
+[2019-03-07 17:13:02.584] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-03-07 17:13:02.584] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension
+[2019-03-07 17:13:03.112] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-03-07 17:13:03.112] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.3/out/extension
+[2019-03-07 17:13:09.415] [exthost] [info] eager extensions activated
+[2019-03-07 17:21:56.312] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:21:56.326] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:21:56.758] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:21:56.758] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:21:56.959] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:21:56.959] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:21:57.139] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:21:57.139] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:21:57.265] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:21:57.265] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:21:57.419] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:21:57.419] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:25:25.203] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:25:25.203] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:25:26.287] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 17:25:26.287] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:03:46.709] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:03:46.710] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:05:46.254] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:05:46.255] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:08:19.712] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:08:19.712] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:08:20.351] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:08:20.351] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:10:03.568] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:10:03.568] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:37.280] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:11:37.280] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:50.075] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:11:50.075] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:50.771] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:11:50.771] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:50.841] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:11:50.841] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:50.963] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:11:50.963] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:54.401] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:11:54.401] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:12:48.435] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:12:48.435] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:13:04.682] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:13:04.682] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:23:09.008] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:23:09.008] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:23:12.562] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:23:12.562] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:24:51.276] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:24:51.276] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:25:50.241] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:25:50.241] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:30:04.739] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:30:04.739] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:53:12.865] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:53:12.865] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:54:51.067] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:54:51.067] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:57:26.912] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:57:26.912] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:59:06.939] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 18:59:06.939] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:02:43.450] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:02:43.451] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:04:04.296] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:04:04.296] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:17:51.154] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:17:51.154] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:25:34.187] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:25:34.187] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:42:24.766] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:42:24.766] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:42:59.765] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:42:59.765] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:44:16.865] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:44:16.865] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:47:58.202] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:47:58.203] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:50:00.959] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:50:00.960] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:52:14.378] [exthost] [error] [ms-python.python] provider FAILED
+[2019-03-07 19:52:14.378] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)

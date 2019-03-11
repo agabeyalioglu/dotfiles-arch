@@ -1,0 +1,54 @@
+!SESSION 2019-01-14 21:47:05.089 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/agabey/.config/Code/User/workspaceStorage/bb7d2f56af1c59f333bdd6572495b2a4/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:15.994
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:17.727
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:17.821
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:17.823
+!MESSAGE Initializing Java Language Server 0.30.0.201812180453
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:17.984
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:18.170
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:18.983
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:21.604
+!MESSAGE Workspace initialized in 3743ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:21.686
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:21.696
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:21.752
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=ignore}}, configuration={updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true}}, dependency={showOutline=true, syncWithFolderExplorer=true, packagePresentation=flat}, test={report={position=sideView}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:26.387
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:48.678
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:48.742
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:48.742
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-01-14 21:47:48.758
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

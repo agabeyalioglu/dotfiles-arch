@@ -1,0 +1,26 @@
+[2019-02-25 16:05:37.709] [renderer1] [info] no standard startup: panel is active
+[2019-02-25 16:05:48.219] [renderer1] [warning] UNRESPONSIVE extension host, 'VisualStudioExptTeam.vscodeintellicode' took 52% of 5587.297ms, saved PROFILE here: '/tmp/exthost-6edba3.cpuprofile' [{"id":"gc","total":32418,"percentage":1},{"id":"ms-vscode.cpptools","total":1493922,"percentage":27},{"id":"ms-vsliveshare.vsliveshare","total":65,"percentage":0},{"id":"program","total":1827,"percentage":0},{"id":"robertohuertasm.vscode-icons","total":655219,"percentage":12},{"id":"self","total":435311,"percentage":8},{"id":"VisualStudioExptTeam.vscodeintellicode","total":2913384,"percentage":52},{"id":"vscode.configuration-editing","total":1874,"percentage":0},{"id":"vscode.extension-editing","total":10648,"percentage":0},{"id":"vscode.json-language-features","total":1862,"percentage":0},{"id":"vscode.npm","total":24328,"percentage":0},{"id":"vscode.typescript-language-features","total":7722,"percentage":0}]
+[2019-02-25 16:10:00.504] [renderer1] [info] no standard startup: not a new window
+[2019-02-25 16:10:06.169] [renderer1] [error] Cannot read property 'fileHash' of undefined: TypeError: Cannot read property 'fileHash' of undefined
+    at _.<anonymous> (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:590129)
+    at Generator.next (<anonymous>)
+    at s (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:585091)
+[2019-02-25 16:10:21.293] [renderer1] [info] no standard startup: not a new window
+[2019-02-25 16:14:19.306] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:26:40.169] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:26:54.032] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:28:57.378] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:29:00.288] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:33:42.267] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:33:44.022] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:33:45.120] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)
+[2019-02-25 16:34:27.980] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.1.0/out/client/extension.js:83:96546)

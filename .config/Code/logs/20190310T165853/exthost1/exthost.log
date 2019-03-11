@@ -1,0 +1,54 @@
+[2019-03-10 16:59:11.743] [exthost] [info] extension host started
+[2019-03-10 16:59:11.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:11.805] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-10 16:59:11.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:11.862] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-03-10 16:59:11.930] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:11.930] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-03-10 16:59:12.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:12.141] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-10 16:59:12.206] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:12.206] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/eamodio.gitlens-9.5.1/dist/extension
+[2019-03-10 16:59:12.365] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:12.365] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
+[2019-03-10 16:59:13.667] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:13.667] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.1284/out/prod/extension-prod
+[2019-03-10 16:59:14.053] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:14.053] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/robertohuertasm.vscode-icons-8.2.0/out/src/
+[2019-03-10 16:59:14.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-03-10 16:59:14.848] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/python/out/pythonMain
+[2019-03-10 16:59:14.895] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-03-10 16:59:14.895] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension
+[2019-03-10 16:59:15.246] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-03-10 16:59:15.246] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.3/out/extension
+[2019-03-10 16:59:21.895] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"workspaceContainsTimeout:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2019-03-10 16:59:21.895] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-vscode.csharp-1.17.1/out/src/main
+[2019-03-10 16:59:33.624] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-maven {"startup":true,"activationEvent":"workspaceContainsTimeout:**/pom.xml"}
+[2019-03-10 16:59:33.624] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/vscjava.vscode-maven-0.15.0/dist/extension
+[2019-03-10 16:59:33.892] [exthost] [info] eager extensions activated
+[2019-03-10 16:59:47.397] [exthost] [info] extension host started
+[2019-03-10 16:59:47.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.489] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-10 16:59:47.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.491] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-03-10 16:59:47.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.495] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-03-10 16:59:47.522] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.522] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-10 16:59:47.525] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.525] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/eamodio.gitlens-9.5.1/dist/extension
+[2019-03-10 16:59:47.561] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.561] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
+[2019-03-10 16:59:47.639] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.639] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.1284/out/prod/extension-prod
+[2019-03-10 16:59:47.781] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-03-10 16:59:47.781] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/robertohuertasm.vscode-icons-8.2.0/out/src/
+[2019-03-10 16:59:48.197] [exthost] [info] eager extensions activated
+[2019-03-10 16:59:48.564] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2019-03-10 16:59:48.564] [exthost] [info] ExtensionService#loadCommonJSModule /home/agabey/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-03-10 17:05:58.585] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-10 17:05:58.585] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2019-03-10 17:05:58.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-10 17:05:58.710] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-03-10 17:05:58.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-10 17:05:58.801] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension

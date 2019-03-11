@@ -1,0 +1,39 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+SortingChoice=CaseInsensitiveSorting
+Version=200
+ViewPropsTimestamp=2018,5,21,0,10,49
+
+[IconsMode]
+FontWeight=50
+PreviewSize=48
+
+[KPropertiesDialog]
+Height 768=473
+Width 1366=460
+
+[MainWindow]
+Height 768=686
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABZAAACiPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACiAAAAFoBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAE1AAAAogAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1326
+
+[Notification Messages]
+New TabNew TabCtrl+T=false
+
+[Open-with settings]
+CompletionMode=1
+History=note
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,djvuthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[SettingsDialog]
+Height 768=445
+Width 1366=559

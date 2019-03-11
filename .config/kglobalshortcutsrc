@@ -1,0 +1,14 @@
+[ActivityManager]
+_k_friendly_name=Activity Manager
+switch-to-activity-2aea729d-d07c-42ae-989f-e9a743f4f847=none,none,Switch to activity "Default"
+
+[klipper]
+_k_friendly_name=Klipper
+clear-history=none,none,Clear Clipboard History
+clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
+cycleNextAction=none,none,Next History Item
+cyclePrevAction=none,none,Previous History Item
+edit_clipboard=none,none,Edit Contents...
+repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
+show-barcode=none,none,Show Barcode...
+show-on-mouse-pos=none,none,Open Klipper at Mouse Position

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/GUI/Background.java</name>
+			<type>1</type>
+			<location>/home/agabey/IdeaProjects/comp302_proto_aalioglu16/src/GUI/Background.java</location>
+		</link>
+		<link>
+			<name>src/GUI/StartScreen.java</name>
+			<type>1</type>
+			<location>/home/agabey/IdeaProjects/comp302_proto_aalioglu16/src/GUI/StartScreen.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

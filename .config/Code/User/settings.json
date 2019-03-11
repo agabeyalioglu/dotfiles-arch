@@ -1,0 +1,30 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    //"files.autoSave": "off",
+    "terminal.integrated.rendererType": "dom",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    //"python.pythonPath": "python2",
+    "python.linting.pylintArgs": [
+        "----extension-pkg-whitelist=1xml"
+    ],
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "prettier.tabWidth": 4,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSave": "afterDelay",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "python.jediEnabled": false,
+    "editor.detectIndentation": false
+
+}

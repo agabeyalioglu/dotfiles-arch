@@ -1,0 +1,78 @@
+!SESSION 2018-07-01 18:55:01.052 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/agabey/.config/Code/User/workspaceStorage/dfc342f01d19bce80700d9bf2b4579b2/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:08.896
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:09.674
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:09.758
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:09.759
+!MESSAGE Initializing Java Language Server 0.21.0.201806181935
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:13.671
+!MESSAGE Installed reference:file:/home/agabey/.vscode/extensions/vscjava.vscode-java-debug-0.10.0/server/com.microsoft.java.debug.plugin-0.10.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:13.707
+!MESSAGE Installed reference:file:/home/agabey/.vscode/extensions/vscjava.vscode-java-test-0.7.0/server/com.microsoft.java.test.plugin-0.7.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:14.345
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:15.932
+!MESSAGE Started reference:file:/home/agabey/.vscode/extensions/vscjava.vscode-java-debug-0.10.0/server/com.microsoft.java.debug.plugin-0.10.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:16.069
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:16.753
+!MESSAGE Finished creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:16.834
+!MESSAGE Workspace initialized in 3195ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:17.442
+!MESSAGE >> java/buildWorkspace (full)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:17.570
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:17.573
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 18:55:17.594
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, completion={overwrite=true, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true}}, test={report={position=sideView}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 19:02:39.692
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY java-debug 1 0 2018-07-01 19:02:39.733
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 19:08:02.259
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 19:09:28.001
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 22:29:39.992
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 22:29:40.019
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 22:29:40.019
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY java-debug 1 0 2018-07-01 22:29:40.028
+!MESSAGE Stopping com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2018-07-01 22:29:40.030
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

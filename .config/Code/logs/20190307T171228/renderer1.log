@@ -1,0 +1,445 @@
+[2019-03-07 17:12:41.439] [renderer1] [info] standard startup
+[2019-03-07 17:12:47.038] [renderer1] [warning] UNRESPONSIVE extension host, 'robertohuertasm.vscode-icons' took 72% of 1374.129ms, saved PROFILE here: '/tmp/exthost-8c787b.cpuprofile' [{"id":"gc","total":12653,"percentage":1},{"id":"James-Yu.latex-workshop","total":20614,"percentage":2},{"id":"ms-vsliveshare.vsliveshare","total":414,"percentage":0},{"id":"program","total":14125,"percentage":1},{"id":"robertohuertasm.vscode-icons","total":986343,"percentage":72},{"id":"self","total":333981,"percentage":24}]
+[2019-03-07 17:13:03.380] [renderer1] [info] no standard startup: not a new window
+[2019-03-07 17:13:08.913] [renderer1] [warning] UNRESPONSIVE extension host, 'VisualStudioExptTeam.vscodeintellicode' took 99% of 3074.259ms, saved PROFILE here: '/tmp/exthost-170619.cpuprofile' [{"id":"gc","total":304,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":2865,"percentage":0},{"id":"program","total":9993,"percentage":0},{"id":"self","total":1211,"percentage":0},{"id":"VisualStudioExptTeam.vscodeintellicode","total":3053614,"percentage":99}]
+[2019-03-07 17:21:56.327] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:21:57.420] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:25:25.206] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 17:25:26.289] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:03:46.710] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:05:46.255] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:08:19.713] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:10:03.570] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:37.281] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:50.076] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:11:54.404] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:12:48.436] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:13:04.683] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:20:44.498] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:23:09.009] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:23:12.563] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:24:30.515] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:24:51.278] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:25:50.246] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:30:04.750] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:35:49.801] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:39:24.941] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:44:31.658] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:45:30.377] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:46:18.101] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:48:03.949] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:53:12.866] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:54:22.615] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:54:39.301] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:54:51.070] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:55:52.018] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:56:36.403] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:57:20.123] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:57:23.750] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:57:26.913] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:58:54.675] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 18:59:06.940] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 18:59:39.107] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:01:20.060] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:02:43.452] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:04:04.297] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:08:02.184] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:09:23.053] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:11:11.357] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:17:40.247] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:17:51.155] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:18:05.712] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:25:30.668] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:25:34.192] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:26:20.929] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:28:51.638] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:31:40.067] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:31:56.990] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:32:01.948] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:32:56.168] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:985)
+    at e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:99:340)
+    at i.e.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:1017:981)
+    at t.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:276)
+    at t.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4900:95)
+    at t.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4897:212)
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:332)
+    at t.doEmitActiveEditorChangeEvent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:709)
+    at t.handleActiveEditorChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:485)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4911:833
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:81:312)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5348:314
+[2019-03-07 19:42:24.767] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:42:59.766] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:44:16.866] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:47:58.203] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:50:00.961] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
+[2019-03-07 19:52:14.379] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+    at asCompletionResult (/home/agabey/.vscode/extensions/ms-python.python-2019.2.5558/out/client/extension.js:83:96829)
