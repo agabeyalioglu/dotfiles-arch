@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/home/agabey/.config/Code/User/workspaceStorage/90f1270d1bfd9a5156c06a9c09fbbbbc/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
-1848207174.index
-3842426239.index

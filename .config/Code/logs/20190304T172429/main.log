@@ -1,6 +1,0 @@
-[2019-03-04 17:24:30.660] [main] [info] update#setState idle
-[2019-03-04 17:25:00.662] [main] [info] update#setState checking for updates
-[2019-03-04 17:25:00.666] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
-[2019-03-04 17:25:00.666] [main] [info] update#setState idle
-[2019-03-04 18:25:00.694] [main] [info] update#setState checking for updates
-[2019-03-04 18:25:01.485] [main] [info] update#setState idle
