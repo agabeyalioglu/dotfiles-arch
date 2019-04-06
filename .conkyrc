@@ -1,15 +1,15 @@
 conky.config = {
-    alignment = 'top_right',
+    alignment = 'top_left',
     background = false,
     border_width = 1,
     cpu_avg_samples = 2,
 	default_color = 'white',
     default_outline_color = 'white',
-    default_shade_color = 'white',
+    default_shade_color = 'black',
     draw_borders = false,
     draw_graph_borders = true,
     draw_outline = false,
-    draw_shades = false,
+    draw_shades = true,
     use_xft = true,
     font = 'Hack:size=9',
     gap_x = 17,
@@ -35,11 +35,10 @@ conky.config = {
 }
 
 conky.text = [[
-
-${color grey}
-${alignr}${font Hack:style=Medium:pixelsize=50}${time %H:%M}${font}
-${voffset 10}
-${alignr}${font Hack:style=Medium:pixelsize=14}${time %A %d %B %y}${font}
+${color white}
+${font Hack:style=Medium:pixelsize=50}${time %H:%M}${font}
+${voffset 5}
+${font Hack:style=Medium:pixelsize=14}${time %A %d %B %y}${font}
 
 SYSTEM $hr
 
