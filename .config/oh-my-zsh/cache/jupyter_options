@@ -1,4 +1,0 @@
-kernelspec=( ${(Q)"${(z)$(<<\EO:kernelspec
-'(--KernelSpecApp.log_datefmt)--KernelSpecApp.log_datefmt=:' '(--KernelSpecApp.log_format)--KernelSpecApp.log_format=:' '(--KernelSpecApp.log_level)--KernelSpecApp.log_level=:'
-EO:kernelspec
-)}"} )
