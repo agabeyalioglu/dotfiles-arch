@@ -3,13 +3,14 @@
 *cursorColor: #efdfdf
 
 
-URxvt.font: xft:Hack:pixelsize=10.5
+URxvt.font: xft:Noto Sans CJK JP:size=6.5
 URxvt.depth:                      32
 URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       false
 URxvt*cursorBlink:                true
 URxvt*saveLines:                  5000
 URxvt*internalBorder: 25
+URxvt.letterSpace: -1
 
 rofi.color-enabled: true
 rofi.color-window: #1c1c22, #3e646f, #3e646f
@@ -26,3 +27,11 @@ rofi.columns: 1
 rofi.padding: 5
 rofi.fixed-num-lines: true
 rofi.hide-scrollbar: true
+
+Xft.lcdfilter: lcddefault
+Xft.antialias: true
+Xft.autohint: 0
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.dpi: 96

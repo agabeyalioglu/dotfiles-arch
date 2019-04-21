@@ -3,7 +3,6 @@
 import sys
 import dbus
 
-trunclen = 45
 
 try:
     session_bus = dbus.SessionBus()
@@ -16,23 +15,11 @@ try:
     artist = metadata['xesam:artist'][0]
     song = metadata['xesam:title']
 
-
     output = artist + ': ' + song
 
-    if len(output) > trunclen:
-        output = output[0:trunclen-3]
-        output += '...'
-        if ('(' in output) and (')' not in output):
-            output += ')'
+    label_with_font = '%{{T8}}{:45s}%{{T-}}'
+    print(label_with_font.format(output))
 
-    else:
-        output += " "*(trunclen - len(output))
-
-    # Python3 uses UTF-8 by default.
-    if sys.version_info.major == 3:
-        print(output)
-    else:
-        print(output.encode('UTF-8'))
 except Exception as e:
     if isinstance(e, dbus.exceptions.DBusException):
         print("")

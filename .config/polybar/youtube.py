@@ -1,6 +1,6 @@
 import json, lz4.block
 
-opentabs = "/home/agabey/.mozilla/firefox/0u3ehhwa.dev-edition-default/sessionstore-backups/recovery.jsonlz4"
+opentabs = "/home/kyon/.mozilla/firefox/tkrp35yw.dev-edition-default/sessionstore-backups/recovery.jsonlz4"
 try:
     f = open(opentabs, "rb")
     magic = f.read(8)
@@ -14,7 +14,9 @@ try:
         title = tab.get("entries")[tab.get("index") - 1].get("title")
         if "- YouTube" in title:
             count += 1
-            print(str(title).split("- YouTube")[0])
+            label_with_font = '%{{T8}}{label}%{{T-}}'
+            label = str(title).split("- YouTube")[0]
+            print(label_with_font.format(label=label))
             break
     if count == 0:
         print("")

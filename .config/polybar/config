@@ -38,14 +38,13 @@ font-2 = Termsynu:size=15;1.5
 font-3 = Siji:pixelsize=20;1.5
 font-4 = FontAwesome:size=8;2
 font-5 = Unifont:size=8;2
-font-6 = Hanazono:size=7;0
+font-6 = HanaMinA:size=12
+font-7 = Noto\ Sans\ CJK\ JP:size=7.5
 
 
 modules-left =  i3
 modules-center = xwindow
 modules-right = alsa xbacklight cpu memory fs-root wireless-network wired-network battery clock
-
-wm-restack = i3
 
 ; Position of the system tray window
 ; If empty or undefined, tray support will be disabled
@@ -95,14 +94,13 @@ font-2 = FontAwesome:size=10;0
 font-3 = NotoSans-Regular:size=8;-1
 font-4 = Unifont:size=5;2
 font-5 = Termsynu:size=7;0
-font-6 = Hanazono:size=7;0
+font-6 = HanaMinA:size=8
+font-7 = Noto\ Sans\ CJK\ JP:size=8
 
 modules-left = spotify previous playpause next
 ;modules-center =  spotify
 ;modules-right = spotify previous playpause next space cpu space memory 
 modules-right = youtube 
-
-wm-restack = bspwm
 
 
 [bar/external]
@@ -121,7 +119,7 @@ underline-color = ${bar/bottom.underline-color}
 overline-size = ${bar/bottom.overline-size}
 overline-color = ${bar/bottom.overline-color}
 
-border-bottom.= ${bar/bottom.border-bottom}
+border-bottom= ${bar/bottom.border-bottom}
 border-bottom.color = ${bar/bottom.border-bottom-color}
 
 spacing = ${bar/bottom.spacing}
@@ -163,7 +161,7 @@ ramp-0 = 
 ramp-1 = 
 ramp-2 = 
 ramp-0-foreground = #666
-ramp-1-foreground = #999
+ramp-1-foreground = #bbb
 ramp-2-foreground = #fff
 
 
@@ -191,19 +189,19 @@ label-focused-background = #70707099
 ;label-focused-underline = #${colors.accent}
 ;label-focused-underline = #9f78e1
 ;label-focused-overline = #c7002e
-label-focused-font = 6
+label-focused-font = 8
 label-focused-padding = 4
 
 label-unfocused = %icon%
 ;label-unfocused-overline = #555555
-label-unfocused-font = 6
+label-unfocused-font = 8
 label-unfocused-padding = 4
 
 label-urgent = %icon%
 label-urgent-foreground = #000000
 label-urgent-background = #bd2c40
 ;label-urgent-overline = #9b0a20
-label-urgent-font = 5
+label-urgent-font = 8
 label-urgent-padding = 4
 
 label-visible = %icon%
@@ -295,17 +293,12 @@ label-connected = %essid%
 label-disconnected =    not connected
 label-disconnected-foreground = #66
 
-ramp-signal-0 = 
-ramp-signal-1 = 
-ramp-signal-2 = 
-ramp-signal-3 = 
-ramp-signal-4 = 
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-4 = 
 
-animation-packetloss-0 = 
-animation-packetloss-0-foreground = #ffa64c
-animation-packetloss-1 = 
-animation-packetloss-1-foreground = ${bar/top.foreground}
-animation-packetloss-framerate = 500
 
 [module/wired-network]
 type = internal/network
@@ -325,8 +318,10 @@ date =  %%{F#bb}%Y-%m-%d%%{F-}   %%{F#ee}%H:%M%%{F-}
 
 [module/alsa]
 type = internal/alsa
-master-soundcard=hw:1
-;master-mixer = IEC958
+;master-soundcard=hw:1
+;speaker-soundcard=hw:1
+;headphone-soundcard=hw:1
+;master-mixer = Master
 ;speaker-mixer = Speaker
 ;headphone-mixer = Headphone
 ;headphone-id = 9
@@ -377,15 +372,15 @@ animation-charging-framerate = 750
 [module/xwindow]
 type = internal/xwindow
 label = %title%
+label-font = 8
 label-maxlen = 30
-label-foreground = #bbb
+label-foreground = #ccc
 
 
 [module/spotify]
 type = custom/script
 interval = 1
 format-prefix = "  "  
-format = <label>
 format-padding = 2
 exec = python $HOME/.config/polybar/spotify.py
 format-underline = #1db954
@@ -426,13 +421,9 @@ click-left = "dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org
 type = custom/script
 inerval = 1
 format-prefix = "  "  
-format = <label>
-#label-font = 6
 exec = python $HOME/.config/polybar/youtube.py
 format-underline = #ff0000
 
 [module/space]
 type = custom/text
 content = "   "
-
-; vim:ft=dosini
