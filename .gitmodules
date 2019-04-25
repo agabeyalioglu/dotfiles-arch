@@ -4,3 +4,18 @@
 [submodule ".vim/pack/my-plugins/start/vim-fugitive"]
 	path = .vim/pack/my-plugins/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/pack/my-plugins/start/vim-airline"]
+	path = .vim/pack/my-plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule ".vim/pack/my-plugins/start/vim-airline-themes"]
+	path = .vim/pack/my-plugins/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule ".vim/pack/my-plugins/start/vim-nerdtree"]
+	path = .vim/pack/my-plugins/start/vim-nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/pack/my-plugins/start/vim-tender-color"]
+	path = .vim/pack/my-plugins/start/vim-tender-color
+	url = https://github.com/jacoborus/tender.vim.git
+[submodule ".vim/pack/my-plugins/start/vim-anderson-color"]
+	path = .vim/pack/my-plugins/start/vim-anderson-color
+	url = https://github.com/tlhr/anderson.vim.git
