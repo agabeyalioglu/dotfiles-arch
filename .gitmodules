@@ -31,3 +31,12 @@
 [submodule ".vim/pack/my-plugins/start/vim-nerdcommenter"]
 	path = .vim/pack/my-plugins/start/vim-nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule ".vim/pack/my-plugins/start/vim-snippets"]
+	path = .vim/pack/my-plugins/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule ".vim/pack/my-plugins/start/vim-ultisnips"]
+	path = .vim/pack/my-plugins/start/vim-ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule ".vim/pack/my-plugins/start/vim-surround"]
+	path = .vim/pack/my-plugins/start/vim-surround
+	url = https://tpope.io/vim/surround.git

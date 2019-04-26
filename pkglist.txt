@@ -129,6 +129,7 @@ sysfsutils
 systemd-sysvcompat
 tar
 texinfo
+the_silver_searcher
 transmission-gtk
 ttf-dejavu
 ttf-font-awesome

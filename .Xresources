@@ -9,7 +9,7 @@ URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       false
 URxvt*cursorBlink:                true
 URxvt*saveLines:                  5000
-URxvt*internalBorder: 25
+URxvt*internalBorder: 25 
 
 rofi.color-enabled: true
 rofi.color-window: #1c1c22, #3e646f, #3e646f
