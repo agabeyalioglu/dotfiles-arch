@@ -3,14 +3,13 @@
 *cursorColor: #efdfdf
 
 
-URxvt.font: xft:Noto Sans CJK JP:size=6.5
+URxvt.font: xft:Hack:size=8,xft:FontAwesome
 URxvt.depth:                      32
 URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       false
 URxvt*cursorBlink:                true
 URxvt*saveLines:                  5000
 URxvt*internalBorder: 25
-URxvt.letterSpace: -1
 
 rofi.color-enabled: true
 rofi.color-window: #1c1c22, #3e646f, #3e646f
