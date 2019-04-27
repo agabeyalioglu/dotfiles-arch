@@ -49,3 +49,9 @@
 [submodule ".vim/pack/my-plugins/start/vim-potato-color"]
 	path = .vim/pack/my-plugins/start/vim-potato-color
 	url = https://github.com/benburrill/potato-colors.git
+[submodule ".vim/pack/my-plugins/start/vim-kuroi-color"]
+	path = .vim/pack/my-plugins/start/vim-kuroi-color
+	url = https://github.com/aonemd/kuroi.vim.git
+[submodule ".vim/pack/my-plugins/start/vim-gruvbox-color"]
+	path = .vim/pack/my-plugins/start/vim-gruvbox-color
+	url = https://github.com/morhetz/gruvbox.git

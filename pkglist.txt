@@ -117,7 +117,7 @@ ranger
 reiserfsprogs
 rofi
 rust
-rxvt-unicode
+rxvt-unicode-256xresources
 s-nail
 scrot
 sed
@@ -153,6 +153,7 @@ when
 which
 wireless_tools
 wpa_supplicant
+xcolor
 xf86-video-intel
 xf86-video-vesa
 xfsprogs

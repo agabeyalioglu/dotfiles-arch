@@ -99,3 +99,7 @@ neofetch
 alias config='/usr/bin/git --git-dir=/home/kyon/.dotfiles --work-tree=/home/kyon'
 alias cat=bat
 alias package-size='pacman -Qi | awk "/^Name/{name=$3} /^Installed Size/{print $4$5, name}" | sort -h'
+alias poweroff='sudo systemctl poweroff'
+alias reboot='sudo systemctl reboot'
+
+alias mkcproj='mkdir include && mkdir obj && touch main.c && cp ~/Documents/Code/MakeTemplate Makefile'

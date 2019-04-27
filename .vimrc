@@ -6,8 +6,12 @@ filetype plugin indent on
 
 
 """""""""""" Colors
+set t_Co=256
+highlight Normal ctermbg=none
+highlight NonText ctermbg=none
 syntax on
-colorscheme tender
+set background=dark
+colorscheme gruvbox
 
 
 """""""""""" Spaces and Tabs
@@ -95,6 +99,12 @@ map <leader>sl yss
 execute "set <M-d>=\ed"
 nnoremap <M-d> yyp
 
+" Quick save and exit
+nnoremap <leader>w :w<CR>
+nnoremap <leader>q :q<CR>
+nnoremap <leader>wq :wq<CR>
+
+
 """"""""""""  Backups
 set nobackup
 " Set vim to save the file on focus out.
@@ -114,7 +124,7 @@ augroup END
 """"""""""""  Vim-Airline
 set laststatus=2
 
-let g:airline_theme='tender'
+let g:airline_theme='gruvbox'
 let g:airline_powerline_fonts = 1
 
 if !exists('g:airline_symbols')
@@ -161,9 +171,25 @@ let g:syntastic_cpp_compiler_options = " -std=c++17"
 
 
 """""""""""" Vim-Ultisnip
-let g:UltiSnipsExpandTrigger="<tab>"
-let g:UltiSnipsJumpForwardTrigger="<c-b>"
-let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+let g:UltiSnipsExpandTrigger="<c-j>"
+let g:UltiSnipsJumpForwardTrigger="<c-j>"
+let g:UltiSnipsJumpBackwardTrigger="<c-k>"
+let g:UltiSnipsListSnippets="<c-h>"
+
+
+"""""""""""" Vim-YCM
+let g:ycm_complete_in_comments = 1
+let g:ycm_seed_identifiers_with_syntax = 1
+let g:ycm_collect_identifiers_from_comments_and_strings = 1
+
+
+"""""""""""" Vim-AutoPair
+execute "set <M-p>=\ep"
+execute "set <M-w>=\ew"
+execute "set <M-n>=\en"
+let g:AutoPairsShortcutFastWrap="<M-w>"
+let g:AutoPairsFlyMode=1
+
 
 """"""""""""  Custom Functions
 " toggle between number and relativenumber
