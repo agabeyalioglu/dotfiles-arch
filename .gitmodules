@@ -40,3 +40,12 @@
 [submodule ".vim/pack/my-plugins/start/vim-surround"]
 	path = .vim/pack/my-plugins/start/vim-surround
 	url = https://tpope.io/vim/surround.git
+[submodule ".vim/pack/my-plugins/start/vim-YCM"]
+	path = .vim/pack/my-plugins/start/vim-YCM
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule ".vim/pack/my-plugins/start/vim-autopair"]
+	path = .vim/pack/my-plugins/start/vim-autopair
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule ".vim/pack/my-plugins/start/vim-potato-color"]
+	path = .vim/pack/my-plugins/start/vim-potato-color
+	url = https://github.com/benburrill/potato-colors.git
