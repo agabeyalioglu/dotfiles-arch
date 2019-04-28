@@ -20,6 +20,8 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 set autoindent
+set list          " Display unprintable characters f12 - switches
+set listchars=tab:•\ ,trail:•,extends:»,precedes:« " Unprintable chars mappingt
 
 
 """""""""""" UI Config
@@ -32,7 +34,7 @@ set lazyredraw
 set showmatch " highlight matching parenthesis
 
 
-"""""""""""" Searching 
+"""""""""""" Searching
 set ignorecase
 set incsearch " search as char entered
 set hlsearch " highlight matches
@@ -49,7 +51,7 @@ set foldmethod=indent " fold based on indent level
 nnoremap <leader>z za
 
 
-"""""""""""" Custom Keymaps  
+"""""""""""" Custom Keymaps
 "make wrapped lines more intuitive
 noremap <silent> k gk
 noremap <silent> j gj
@@ -84,6 +86,7 @@ nnoremap <leader>b :ls<CR>:buffer<Space>
 nnoremap <leader><Tab> :bnext<CR>
 nnoremap <leader><S-Tab> :bprevious<CR>
 nnoremap <leader>bb :b#<CR>
+nnoremap <leader>bd :bd<CR>
 
 " Send current word to CtrlP
 nmap <leader>f <C-P><C-\>w
@@ -126,9 +129,12 @@ set laststatus=2
 
 let g:airline_theme='gruvbox'
 let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
+
+let g:airline_section_c='%{getcwd()}/%t'
 
 if !exists('g:airline_symbols')
-    let g:airline_symbols = {}
+    let g:airline_symbols ={}
 endif
 let g:airline_left_sep = ''
 let g:airline_left_alt_sep = ''
@@ -137,7 +143,6 @@ let g:airline_right_alt_sep = ''
 let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = ''
-
 
 """""""""""" Vim-NerdTree
 map <C-n> :NERDTreeToggle<CR>
@@ -154,7 +159,7 @@ let g:ctrlp_user_command = {
     \ 1: ['.git', 'cd %s && git ls-files --cached --exclude-standard --others'],
     \ },
   \ 'fallback': 'ag %s -l --nocolor -g ""'
-  \ } 
+  \ }
 
 """""""""""" Vim-Syntastic
 
@@ -180,6 +185,7 @@ let g:UltiSnipsListSnippets="<c-h>"
 let g:ycm_complete_in_comments = 1
 let g:ycm_seed_identifiers_with_syntax = 1
 let g:ycm_collect_identifiers_from_comments_and_strings = 1
+let g:ycm_confirm_extra_conf = 0
 
 
 """""""""""" Vim-AutoPair
