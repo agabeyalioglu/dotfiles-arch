@@ -148,6 +148,7 @@ util-linux
 vi
 vim
 vlc
+vtop
 w3m
 when
 which

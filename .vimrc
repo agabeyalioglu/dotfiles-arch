@@ -167,8 +167,7 @@ let g:syntastic_c_compiler = "gcc"
 let g:syntastic_c_gcc_args = " -Iinclude"
 
 let g:syntastic_cpp_compiler = "g++"
-let g:syntastic_cpp_compiler_options = " -std=c++17"
-
+let g:syntastic_cpp_include_dirs=['include']
 
 """""""""""" Vim-Ultisnip
 let g:UltiSnipsExpandTrigger="<c-j>"

@@ -103,3 +103,5 @@ alias poweroff='sudo systemctl poweroff'
 alias reboot='sudo systemctl reboot'
 
 alias mkcproj='mkdir include && mkdir obj && touch main.c && cp ~/Documents/Code/MakeTemplate Makefile'
+
+alias cdd='cd Documents/Code'
