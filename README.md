@@ -9,7 +9,7 @@ My dotfiles for Arch Linux
 - conky
 - compton-tryone
 - polybar
- For other programs please see [pkglist.txt](pkglist.txt)
+- For other programs please see [pkglist.txt](pkglist.txt)
 
 ## Screenshots
 
