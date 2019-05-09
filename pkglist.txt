@@ -9,6 +9,7 @@ bash
 bat
 bbswitch
 bison
+boost
 bumblebee
 bzip2
 clang
@@ -145,6 +146,7 @@ update-grub
 urxvt-clipboard
 usbutils
 util-linux
+valgrind
 vi
 vim
 vlc
