@@ -1,6 +1,6 @@
 [Desktop Entry]
-Exec=/home/kyon/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox --minimize
-Icon=/home/kyon/.local/share/JetBrains/Toolbox/toolbox.svg
+Exec=/home/shinobu/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox --minimize
+Icon=/home/shinobu/.local/share/JetBrains/Toolbox/toolbox.svg
 MimeType=x-scheme-handler/jetbrains;
 Name=JetBrains Toolbox
 StartupNotify=false

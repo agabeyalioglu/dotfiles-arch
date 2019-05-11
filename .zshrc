@@ -4,6 +4,7 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.config/oh-my-zsh
 source ~/.zprofile
+autoload zargs
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -96,7 +97,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 neofetch
-alias config='/usr/bin/git --git-dir=/home/kyon/.dotfiles --work-tree=/home/kyon'
+alias config='/usr/bin/git --git-dir=/home/shinobu/.dotfiles --work-tree=/home/shinobu'
 alias cat=bat
 alias package-size='pacman -Qi | awk "/^Name/{name=$3} /^Installed Size/{print $4$5, name}" | sort -h'
 alias poweroff='sudo systemctl poweroff'

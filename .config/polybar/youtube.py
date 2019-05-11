@@ -1,6 +1,6 @@
 import json, lz4.block
 
-opentabs = "/home/kyon/.mozilla/firefox/tkrp35yw.dev-edition-default/sessionstore-backups/recovery.jsonlz4"
+opentabs = "/home/shinobu/.mozilla/firefox/tkrp35yw.dev-edition-default/sessionstore-backups/recovery.jsonlz4"
 try:
     f = open(opentabs, "rb")
     magic = f.read(8)

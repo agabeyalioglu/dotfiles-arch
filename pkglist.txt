@@ -82,6 +82,7 @@ mlocate
 nano
 neofetch
 netctl
+network-manager-applet
 networkmanager
 noto-fonts-cjk
 noto-fonts-main
