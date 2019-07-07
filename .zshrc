@@ -104,5 +104,11 @@ alias poweroff='sudo systemctl poweroff'
 alias reboot='sudo systemctl reboot'
 
 alias mkcproj='mkdir include && mkdir obj && touch main.c && cp ~/Documents/Code/MakeTemplate Makefile'
+alias icat="kitty +kitten icat"
 
 alias cdd='cd Documents/Code'
+
+autoload -Uz compinit
+compinit
+# Completion for kitty
+kitty + complete setup zsh | source /dev/stdin

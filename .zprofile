@@ -1,5 +1,5 @@
 export EDITOR=/usr/bin/vim
-export JAVA_HOME="/usr/lib/jvm/java-11-openjdk"
+export JAVA_HOME="/usr/lib/jvm/java-12-openjdk"
 
 export ANDROID_SDK="$HOME/Android/Sdk"
 
